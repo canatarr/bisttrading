@@ -1,0 +1,94 @@
+2025-08-29 23:19:46,150 - INFO - generated new fontManager
+2025-08-29 23:19:57,426 - INFO - Processing ticker 1/5: THYAO.IS
+2025-08-29 23:19:57,426 - INFO - Downloading data for THYAO.IS
+2025-08-29 23:19:59,814 - INFO - Successfully downloaded 251 records for THYAO.IS
+2025-08-29 23:19:59,814 - INFO - Data saved to data\THYAO_1y_1d.csv
+2025-08-29 23:20:00,815 - INFO - Processing ticker 2/5: GARAN.IS
+2025-08-29 23:20:00,816 - INFO - Downloading data for GARAN.IS
+2025-08-29 23:20:01,146 - INFO - Successfully downloaded 251 records for GARAN.IS
+2025-08-29 23:20:01,147 - INFO - Data saved to data\GARAN_1y_1d.csv
+2025-08-29 23:20:02,147 - INFO - Processing ticker 3/5: AKBNK.IS
+2025-08-29 23:20:02,148 - INFO - Downloading data for AKBNK.IS
+2025-08-29 23:20:02,478 - INFO - Successfully downloaded 251 records for AKBNK.IS
+2025-08-29 23:20:02,479 - INFO - Data saved to data\AKBNK_1y_1d.csv
+2025-08-29 23:20:03,480 - INFO - Processing ticker 4/5: ASELS.IS
+2025-08-29 23:20:03,480 - INFO - Downloading data for ASELS.IS
+2025-08-29 23:20:03,819 - INFO - Successfully downloaded 251 records for ASELS.IS
+2025-08-29 23:20:03,820 - INFO - Data saved to data\ASELS_1y_1d.csv
+2025-08-29 23:20:04,821 - INFO - Processing ticker 5/5: KRDMD.IS
+2025-08-29 23:20:04,821 - INFO - Downloading data for KRDMD.IS
+2025-08-29 23:20:05,102 - INFO - Successfully downloaded 251 records for KRDMD.IS
+2025-08-29 23:20:05,103 - INFO - Data saved to data\KRDMD_1y_1d.csv
+2025-08-29 23:20:05,110 - INFO - Data validation passed for THYAO.IS
+2025-08-29 23:20:05,111 - INFO - Data validation passed for GARAN.IS
+2025-08-29 23:20:05,111 - INFO - Data validation passed for AKBNK.IS
+2025-08-29 23:20:05,112 - INFO - Data validation passed for ASELS.IS
+2025-08-29 23:20:05,113 - INFO - Data validation passed for KRDMD.IS
+2025-08-29 23:20:05,117 - INFO - Summary report saved to output\download_summary_20250829_232005.csv
+2025-08-29 23:20:05,125 - INFO - Data validation passed for THYAO.IS
+2025-08-29 23:20:05,126 - INFO - Data validation passed for GARAN.IS
+2025-08-29 23:20:05,127 - INFO - Data validation passed for AKBNK.IS
+2025-08-29 23:20:05,127 - INFO - Data validation passed for ASELS.IS
+2025-08-29 23:20:05,128 - INFO - Data validation passed for KRDMD.IS
+2025-08-29 23:20:33,503 - INFO - Processing ticker 1/5: THYAO.IS
+2025-08-29 23:20:33,503 - INFO - Downloading data for THYAO.IS
+2025-08-29 23:20:33,720 - INFO - Successfully downloaded 251 records for THYAO.IS
+2025-08-29 23:20:33,721 - INFO - Data saved to data\THYAO_1y_1d.csv
+2025-08-29 23:20:34,721 - INFO - Processing ticker 2/5: GARAN.IS
+2025-08-29 23:20:34,722 - INFO - Downloading data for GARAN.IS
+2025-08-29 23:20:34,887 - INFO - Successfully downloaded 251 records for GARAN.IS
+2025-08-29 23:20:34,887 - INFO - Data saved to data\GARAN_1y_1d.csv
+2025-08-29 23:20:35,888 - INFO - Processing ticker 3/5: AKBNK.IS
+2025-08-29 23:20:35,888 - INFO - Downloading data for AKBNK.IS
+2025-08-29 23:20:36,058 - INFO - Successfully downloaded 251 records for AKBNK.IS
+2025-08-29 23:20:36,058 - INFO - Data saved to data\AKBNK_1y_1d.csv
+2025-08-29 23:20:37,060 - INFO - Processing ticker 4/5: ASELS.IS
+2025-08-29 23:20:37,061 - INFO - Downloading data for ASELS.IS
+2025-08-29 23:20:37,247 - INFO - Successfully downloaded 251 records for ASELS.IS
+2025-08-29 23:20:37,247 - INFO - Data saved to data\ASELS_1y_1d.csv
+2025-08-29 23:20:38,248 - INFO - Processing ticker 5/5: KRDMD.IS
+2025-08-29 23:20:38,249 - INFO - Downloading data for KRDMD.IS
+2025-08-29 23:20:38,400 - INFO - Successfully downloaded 251 records for KRDMD.IS
+2025-08-29 23:20:38,400 - INFO - Data saved to data\KRDMD_1y_1d.csv
+2025-08-29 23:20:38,407 - INFO - Data validation passed for THYAO.IS
+2025-08-29 23:20:38,408 - INFO - Data validation passed for GARAN.IS
+2025-08-29 23:20:38,409 - INFO - Data validation passed for AKBNK.IS
+2025-08-29 23:20:38,410 - INFO - Data validation passed for ASELS.IS
+2025-08-29 23:20:38,412 - INFO - Data validation passed for KRDMD.IS
+2025-08-29 23:20:38,413 - INFO - Data validation passed for THYAO.IS
+2025-08-29 23:20:38,415 - INFO - Data validation passed for GARAN.IS
+2025-08-29 23:20:38,416 - INFO - Data validation passed for AKBNK.IS
+2025-08-29 23:20:38,417 - INFO - Data validation passed for ASELS.IS
+2025-08-29 23:20:38,418 - INFO - Data validation passed for KRDMD.IS
+2025-08-29 23:20:38,422 - INFO - Summary report saved to output\download_summary_20250829_232038.csv
+2025-08-29 23:24:50,126 - INFO - Processing ticker 1/5: THYAO.IS
+2025-08-29 23:24:50,127 - INFO - Downloading data for THYAO.IS
+2025-08-29 23:24:50,355 - INFO - Successfully downloaded 251 records for THYAO.IS
+2025-08-29 23:24:50,355 - INFO - Data saved to data\THYAO_1y_1d.csv
+2025-08-29 23:24:51,356 - INFO - Processing ticker 2/5: GARAN.IS
+2025-08-29 23:24:51,357 - INFO - Downloading data for GARAN.IS
+2025-08-29 23:24:51,545 - INFO - Successfully downloaded 251 records for GARAN.IS
+2025-08-29 23:24:51,545 - INFO - Data saved to data\GARAN_1y_1d.csv
+2025-08-29 23:24:52,546 - INFO - Processing ticker 3/5: AKBNK.IS
+2025-08-29 23:24:52,547 - INFO - Downloading data for AKBNK.IS
+2025-08-29 23:24:52,731 - INFO - Successfully downloaded 251 records for AKBNK.IS
+2025-08-29 23:24:52,732 - INFO - Data saved to data\AKBNK_1y_1d.csv
+2025-08-29 23:24:53,732 - INFO - Processing ticker 4/5: ASELS.IS
+2025-08-29 23:24:53,733 - INFO - Downloading data for ASELS.IS
+2025-08-29 23:24:53,902 - INFO - Successfully downloaded 251 records for ASELS.IS
+2025-08-29 23:24:53,903 - INFO - Data saved to data\ASELS_1y_1d.csv
+2025-08-29 23:24:54,903 - INFO - Processing ticker 5/5: KRDMD.IS
+2025-08-29 23:24:54,904 - INFO - Downloading data for KRDMD.IS
+2025-08-29 23:24:55,055 - INFO - Successfully downloaded 251 records for KRDMD.IS
+2025-08-29 23:24:55,056 - INFO - Data saved to data\KRDMD_1y_1d.csv
+2025-08-29 23:24:55,061 - INFO - Data validation passed for THYAO.IS
+2025-08-29 23:24:55,063 - INFO - Data validation passed for GARAN.IS
+2025-08-29 23:24:55,064 - INFO - Data validation passed for AKBNK.IS
+2025-08-29 23:24:55,065 - INFO - Data validation passed for ASELS.IS
+2025-08-29 23:24:55,066 - INFO - Data validation passed for KRDMD.IS
+2025-08-29 23:24:55,067 - INFO - Data validation passed for THYAO.IS
+2025-08-29 23:24:55,068 - INFO - Data validation passed for GARAN.IS
+2025-08-29 23:24:55,069 - INFO - Data validation passed for AKBNK.IS
+2025-08-29 23:24:55,070 - INFO - Data validation passed for ASELS.IS
+2025-08-29 23:24:55,071 - INFO - Data validation passed for KRDMD.IS
+2025-08-29 23:24:55,075 - INFO - Summary report saved to output\download_summary_20250829_232455.csv
